@@ -6,7 +6,7 @@ Primary goal of the competition was the implementation of a traffic light system
 
 ### Why different versions?
 
-Because I did have any history for the files here on Github, thats why the different files with version numbers.
+Because I didn't have any history for the files here on Github, thats why the different files with version numbers.
 Also the changes from version 0.1 to 0.2 have been rather minimal. Only red-yellow color has been added and the code cleaned up prior to version 0.1.
 
 The SDL version is the only version which has some sort of traffic graphical traffic simulation, the other ones are straight console apps in German.
